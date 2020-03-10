@@ -1,0 +1,8 @@
+title: Foodie Thursdays!
+
+# Build settings
+source: docs
+destination: site
+markdown: kramdown
+exclude:
+  - CNAME
